@@ -22,5 +22,10 @@ export default {
       title: "Body",
       type: "blockContent",
     },
+    {
+      name: "shouldShow",
+      title: "Should this slide be shown?",
+      type: "boolean",
+    },
   ],
 };
